@@ -1,4 +1,29 @@
 .jumbotron{
-font-family: 'Playfair Display', serif;
+font-family: 'Michroma', sans-serif;
 background-image: url(http://backgroundlabs.com/files/subtle-circles-pattern-2268.png);
+}
+h1 {
+font-family: 'Michroma', sans-serif;
+}
+li {
+  list-style: none;
+}
+nav{
+  font-size: 20px;
+}
+.progress{
+  width: 70%;
+  text-decoration: none;
+}
+#Contact .card-header{
+  font-size: 25px;
+}
+.jumbotron h2{
+  font-size: 40px;
+}
+.card-header{
+  background-image: url(http://backgroundlabs.com/files/clouds-seamless-background-824.jpg);
+}
+.card-body{
+  background-image: url(http://backgroundlabs.com/files/cute-clouds-seamless-pattern-910.png);
 }
