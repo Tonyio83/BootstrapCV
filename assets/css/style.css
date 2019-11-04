@@ -1,9 +1,6 @@
 .jumbotron{
 font-family: 'Michroma', sans-serif;
-background-image: url(http://backgroundlabs.com/files/subtle-circles-pattern-2268.png);
-}
-h1 {
-font-family: 'Michroma', sans-serif;
+background-image: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/gplaypattern.png);
 }
 li {
   list-style: none;
@@ -85,11 +82,15 @@ nav{
   font-size: 40px;
 }
 .card-header{
-  background-image: url(http://backgroundlabs.com/files/clouds-seamless-background-824.jpg);
+  background-image: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/escheresque_ste.png);
+  color: white;
 }
 .card-body{
-  background-image: url(http://backgroundlabs.com/files/cute-clouds-seamless-pattern-910.png);
+  background-image: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/escheresque.png);
 }
 a:hover{
 
+}
+.progress{
+  box-shadow: 10px 5px 5px grey;
 }
